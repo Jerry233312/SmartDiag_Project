@@ -1,0 +1,13 @@
+手动分别启动
+
+先启动后端（在一个终端）：
+
+
+cd SmartDiag_Project/backend
+.venv/Scripts/activate
+uvicorn main:app --reload --host 0.0.0.0 --port 28080
+再启动前端（在另一个终端）：
+
+
+cd SmartDiag_Project/frontend
+npm run dev

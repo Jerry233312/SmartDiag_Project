@@ -1,0 +1,30 @@
+# 环境变量与密钥 — 绝对禁止提交
+.env
+*.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 前端依赖
+node_modules/
+dist/
+dist-ssr/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
