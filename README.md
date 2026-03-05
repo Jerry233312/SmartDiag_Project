@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/3_evaluation.png" alt="AI 评分结果" width="80%" />
+  <img src="assets/3_evaluation.png?v=2" alt="AI 评分结果" width="80%" />
   <br/><em>AI 主任考官评分 — 诊断结果与医疗经济学专项点评</em>
 </p>
 
