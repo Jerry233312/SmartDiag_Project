@@ -4,6 +4,25 @@
 
 ---
 
+## 截图预览
+
+<p align="center">
+  <img src="assets/1_level_select.jpg" alt="关卡选择界面" width="80%" />
+  <br/><em>关卡选择 — 五阶职称体系入口</em>
+</p>
+
+<p align="center">
+  <img src="assets/2_workspace.jpg" alt="问诊工作台" width="80%" />
+  <br/><em>问诊工作台 — AI 患者对话 + 器械检查 + 金币预算</em>
+</p>
+
+<p align="center">
+  <img src="assets/3_evaluation.png" alt="AI 评分结果" width="80%" />
+  <br/><em>AI 主任考官评分 — 诊断结果与医疗经济学专项点评</em>
+</p>
+
+---
+
 ## 目录
 
 - [项目简介](#项目简介)
